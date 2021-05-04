@@ -1,0 +1,2 @@
+rabbitmq : "amqp://guest:guest@localhost:5672/"
+url : http://localhost:9091/requests
